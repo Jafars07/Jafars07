@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Spring, Frontend Development & java projects**
 
-- 📫 How to reach me **jsadiq369@gmail.com**
+- 📫 How to reach me **jafarsadiq.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
