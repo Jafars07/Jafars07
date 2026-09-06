@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Java Projects**
 
-- 🌱 I’m currently learning **DSA, React.js, SpringBoot**
+- 🌱 I’m currently learning **New Technonologies**
 
 - 🤝 I’m looking for help with **Job - Portal**
 
-- 💬 Ask me about **Spring, Frontend Development & java projects**
+- 💬 Ask me about **Spring, Frontend Development & Java projects**
 
 - 📫 How to reach me **jafarsadiq.dev@gmail.com**
 
